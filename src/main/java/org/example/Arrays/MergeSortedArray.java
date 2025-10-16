@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Arrays;
 
 public class MergeSortedArray {
 
@@ -14,25 +14,25 @@ public class MergeSortedArray {
             return;
         }
 
-        int endOfArray = nums1.length - 1;
+        int index = nums1.length - 1;
         //int endOfArray = n + m - 1;
 
         while (n > 0 && m > 0) {
 
             if (nums2[n - 1] >= nums1[m - 1]) {
-                nums1[endOfArray] = nums2[n - 1];
+                nums1[index] = nums2[n - 1];
                 n--;
             } else {
-                nums1[endOfArray] = nums1[m - 1];
+                nums1[index] = nums1[m - 1];
                 m--;
             }
-            endOfArray--;
+            index--;
         }
 
         while (n > 0) {
-            nums1[endOfArray] = nums2[n - 1];
+            nums1[index] = nums2[n - 1];
             n--;
-            endOfArray--;
+            index--;
         }
 
     }
