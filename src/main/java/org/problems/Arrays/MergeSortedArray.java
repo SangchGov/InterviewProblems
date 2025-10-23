@@ -1,4 +1,4 @@
-package org.example.Arrays;
+package org.problems.Arrays;
 
 public class MergeSortedArray {
 

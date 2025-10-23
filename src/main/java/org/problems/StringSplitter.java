@@ -1,4 +1,4 @@
-package org.example;
+package org.problems;
 
 //Напишите код, с помощью которого можно разделить строку на части.
 //Write a code which splits the string in parts

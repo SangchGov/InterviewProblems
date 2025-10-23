@@ -1,6 +1,6 @@
 package twoPointers;
 
-import org.example.twoPointers.ValidPalindrome;
+import org.problems.twoPointers.ValidPalindrome;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

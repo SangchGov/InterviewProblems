@@ -1,6 +1,6 @@
 package Arrays;
 
-import org.example.Arrays.JumpGame;
+import org.problems.Arrays.JumpGame;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package org.example.Arrays;
+package org.problems.Arrays;
 
 import java.util.Arrays;
 
@@ -8,8 +8,6 @@ public class Candy {
 
         int[] candies = new int[ratings.length];
         Arrays.fill(candies,1);
-
-        int baseMinimum = 1;
 
         for (int i = 1; i < ratings.length; i++){
 

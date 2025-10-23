@@ -1,6 +1,6 @@
 package HashMap;
 
-import org.example.HashMap.RandomNote;
+import org.problems.HashMap.RandomNote;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

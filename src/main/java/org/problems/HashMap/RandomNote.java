@@ -1,4 +1,4 @@
-package org.example.HashMap;
+package org.problems.HashMap;
 
 public class RandomNote {
 

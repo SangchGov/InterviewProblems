@@ -1,6 +1,6 @@
 package Arrays;
 
-import org.example.Arrays.RemoveElement;
+import org.problems.Arrays.RemoveElement;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

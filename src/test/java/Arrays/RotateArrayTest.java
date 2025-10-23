@@ -1,6 +1,6 @@
 package Arrays;
 
-import org.example.Arrays.RotateArray;
+import org.problems.Arrays.RotateArray;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

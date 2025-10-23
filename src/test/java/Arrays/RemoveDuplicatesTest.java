@@ -1,6 +1,6 @@
 package Arrays;
 
-import org.example.Arrays.RemoveDuplicates;
+import org.problems.Arrays.RemoveDuplicates;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

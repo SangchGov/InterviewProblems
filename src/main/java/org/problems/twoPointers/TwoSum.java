@@ -1,4 +1,4 @@
-package org.example.twoPointers;
+package org.problems.twoPointers;
 
 public class TwoSum {
 

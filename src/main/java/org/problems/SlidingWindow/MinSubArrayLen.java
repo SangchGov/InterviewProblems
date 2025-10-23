@@ -1,4 +1,4 @@
-package org.example.SlidingWindow;
+package org.problems.SlidingWindow;
 
 public class MinSubArrayLen {
 

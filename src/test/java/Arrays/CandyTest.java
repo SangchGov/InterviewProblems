@@ -1,6 +1,6 @@
 package Arrays;
 
-import org.example.Arrays.Candy;
+import org.problems.Arrays.Candy;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

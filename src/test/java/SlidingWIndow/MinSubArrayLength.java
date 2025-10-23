@@ -1,6 +1,6 @@
 package SlidingWIndow;
 
-import org.example.SlidingWindow.MinSubArrayLen;
+import org.problems.SlidingWindow.MinSubArrayLen;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

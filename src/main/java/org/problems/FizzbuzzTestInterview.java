@@ -1,4 +1,4 @@
-package org.example;
+package org.problems;
 
 public class FizzbuzzTestInterview{
     public byte[] fizzBuzzInterview(int value){

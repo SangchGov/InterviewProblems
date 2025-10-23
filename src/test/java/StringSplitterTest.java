@@ -1,4 +1,4 @@
-import org.example.StringSplitter;
+import org.problems.StringSplitter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

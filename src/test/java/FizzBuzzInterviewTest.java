@@ -1,5 +1,5 @@
-import org.example.Arrays.MergeSortedArray;
-import org.example.FizzbuzzTestInterview;
+import org.problems.Arrays.MergeSortedArray;
+import org.problems.FizzbuzzTestInterview;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

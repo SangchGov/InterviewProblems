@@ -1,6 +1,6 @@
 package twoPointers;
 
-import org.example.twoPointers.TwoSum;
+import org.problems.twoPointers.TwoSum;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
